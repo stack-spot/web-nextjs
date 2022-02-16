@@ -1,0 +1,3 @@
+[submodule "uxservices-web-nextjs-template"]
+	path = uxservices-web-nextjs-template
+	url = https://github.com/stack-spot/uxservices-web-nextjs-template
